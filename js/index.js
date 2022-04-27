@@ -9,3 +9,6 @@ addButton.addEventListener("click", () => {
 subtractButton.addEventListener("click", () => {
   counter.innerText = Number(counter.innerText) - 1;
 });
+
+
+console.log("oi2")
