@@ -10,5 +10,6 @@ subtractButton.addEventListener("click", () => {
   counter.innerText = Number(counter.innerText) - 1;
 });
 
+console.log("oi")
 
-console.log("oi2")
+console.log("segundo console.log")
